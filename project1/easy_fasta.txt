@@ -1,0 +1,4 @@
+>seq
+ATGC
+GCAT
+TGT
